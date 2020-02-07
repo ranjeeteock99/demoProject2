@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15302" started-at="2020-02-07T12:47:57Z" finished-at="2020-02-07T12:48:13Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15302" started-at="2020-02-07T12:47:57Z" finished-at="2020-02-07T12:48:13Z">
+      <class name="com.AutomationTalks.demoproject1.testClass1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.AutomationTalks.demoproject1.testClass1@d44fc21]" name="setUp" is-config="true" duration-ms="9475" started-at="2020-02-07T12:47:57Z" finished-at="2020-02-07T12:48:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Allocation()[pri:0, instance:com.AutomationTalks.demoproject1.testClass1@d44fc21]" name="Allocation" duration-ms="1996" started-at="2020-02-07T12:48:07Z" finished-at="2020-02-07T12:48:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Allocation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.AutomationTalks.demoproject1.testClass1@d44fc21]" name="tearDown" is-config="true" duration-ms="3808" started-at="2020-02-07T12:48:09Z" finished-at="2020-02-07T12:48:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.AutomationTalks.demoproject1.testClass1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
